@@ -1,6 +1,12 @@
 # IndiaEnergyPredict
 Project Title: IndiaEnergyPredict
 
+<!-- Resized Image -->
+<img src="https://github.com/user-attachments/assets/00e718f3-38eb-4c8d-a8ec-43c22ac4b522" alt="My Image" width="200">
+<img src="https://github.com/user-attachments/assets/8e9095db-1e5c-4fca-a018-5766ea77398f" alt="My Image" width="200">
+<img src="https://github.com/user-attachments/assets/085bdbb8-d299-4bf9-8fb3-7c3994368711" alt="My Image" width="200">
+
+
 ## Overview:
 
 IndiaEnergyPredict is a data-driven project focused on predicting and analyzing the production trends of various energy sources in India. Utilizing advanced machine learning techniques, the project aims to provide accurate forecasts for the production of ethanol, bio-diesel, coal, and electricity. These predictions are crucial for understanding future energy supply dynamics and aiding in strategic planning for sustainable energy management in India.
